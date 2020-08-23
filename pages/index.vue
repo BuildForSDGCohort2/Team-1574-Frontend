@@ -1,6 +1,9 @@
 <template>
+<v-layout>
   bussiness - online 
-  </v-layout>
+</v-layout>
+  
+  
 </template>
 
 <script>
